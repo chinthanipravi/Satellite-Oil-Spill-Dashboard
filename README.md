@@ -15,11 +15,10 @@ An AI-powered Satellite SAR Image Processing and Marine Surveillance Analytics D
    ```bash
    git clone [https://github.com/YOUR_USERNAME/Satellite-Oil-Spill-Dashboard.git](https://github.com/YOUR_USERNAME/Satellite-Oil-Spill-Dashboard.git)
    cd Satellite-Oil-Spill-Dashboard
-
-1. Install dependencies:
+## 1. Install dependencies:
     Bash
     pip install -r requirements.txt
 
-2. Run the Streamlit application:
+## 2. Run the Streamlit application:
     Bash
     streamlit run app.py
