@@ -1,0 +1,25 @@
+# Virtual Environment 
+venv/
+.venv/
+env/
+ENV/
+
+# Python Cache & Compiled Files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE & Editor Settings (VS Code, PyCharm, etc.)
+.vscode/
+.idea/
+*.swp
+
+# Operating System Temporary Files
+.DS_Store
+Thumbs.db
+
+# Big Dataset
+dataset/
+
+# Large Model Files 
+*.h5
